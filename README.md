@@ -34,7 +34,7 @@ Social media is filled with emotional expressions — through words, emojis, sla
 The project analyzes multiple platforms (Facebook, Instagram, Twitter). Below are pie charts showing sentiment distributions:
 
 ### Facebook
-![Facebook Output](Facebook_Output.png)
+![Image](https://github.com/user-attachments/assets/c4e6e175-db33-47f6-8f3e-b082d6ffb0b9)
 
 ### Instagram
 ![Instagram Output](Instagram_Output.png)
