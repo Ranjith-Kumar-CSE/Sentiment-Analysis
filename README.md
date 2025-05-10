@@ -28,6 +28,7 @@ Social media is filled with emotional expressions — through words, emojis, sla
 - **pandas** – Data manipulation
 - **matplotlib** – Visualization
 - **vaderSentiment** – Sentiment analysis
+## Installation
 
 ## 📊 Visual Results
 
@@ -40,7 +41,7 @@ The project analyzes multiple platforms (Facebook, Instagram, Twitter). Below ar
 ![Image](https://github.com/user-attachments/assets/99c6e082-fdad-4165-ae2c-69ffb670c008)
 
 ### Twitter
-![Twitter Output](Twitter_Output.png)
+![Image](https://github.com/user-attachments/assets/f8cf6c2e-9ba0-4a7e-8be8-65add098148e)
 
 ## 🚀 How It Works
 
