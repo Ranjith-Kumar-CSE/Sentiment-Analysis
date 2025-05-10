@@ -2,12 +2,12 @@
 
 This project analyzes the emotional content of social media posts using sentiment analysis with the VADER (Valence Aware Dictionary and sEntiment Reasoner) tool. It classifies text into **Positive**, **Negative**, or **Neutral** sentiments and visualizes the results using pie charts.
 
-## 📌 Project Overview
+## Project Overview
 
 Social media is filled with emotional expressions — through words, emojis, slang, and punctuation. Manually understanding these emotions at scale is impossible. This project automates that process using VADER, a lexicon-based sentiment analysis tool designed for social media language.
 ![Image](https://github.com/user-attachments/assets/78e1d8b7-c9e0-460d-bbfd-62fdc99bc74d)
 
-## 🎯 Objectives
+## Objectives
 
 - Preprocess Instagram post data (remove nulls, duplicates, retain emojis/punctuation).
 - Classify sentiment using VADER compound scores.
@@ -24,7 +24,7 @@ Social media is filled with emotional expressions — through words, emojis, sla
 
 ## Technologies Used
 
-- **Python** 🐍
+- **Python** 
 - **pandas** – Data manipulation
 - **matplotlib** – Visualization
 - **vaderSentiment** – Sentiment analysis
@@ -48,7 +48,7 @@ Social media is filled with emotional expressions — through words, emojis, sla
    pip installvaderSentiment
    ```
 
-## ▶️ Usage
+## Usage
 
 1. Make sure your dataset (e.g., `Instagram-datasets.csv`) is placed in the project folder.
 2. Run the Python script (e.g., `Sentiment-Analysis.py`) in your preferred environment:
@@ -57,7 +57,7 @@ Social media is filled with emotional expressions — through words, emojis, sla
    ```
 3. View the pie chart and terminal outputs to understand sentiment distribution.
 
-## 🧪 Platforms
+## Platforms
 
 You can run this project in any of the following environments:
 
@@ -68,7 +68,7 @@ You can run this project in any of the following environments:
 - **Anaconda**
 - Any other Python environment with required libraries installed
 
-## 📊 Visual Results
+## Visual Results
 
 The project analyzes multiple platforms (Facebook, Instagram, Twitter). Below are pie charts showing sentiment distributions:
 
@@ -81,7 +81,7 @@ The project analyzes multiple platforms (Facebook, Instagram, Twitter). Below ar
 ### Twitter
 ![Image](https://github.com/user-attachments/assets/f8cf6c2e-9ba0-4a7e-8be8-65add098148e)
 
-## 🚀 How It Works
+## How It Works
 
 1. Load the CSV dataset.
 2. Preprocess data:
@@ -96,13 +96,13 @@ The project analyzes multiple platforms (Facebook, Instagram, Twitter). Below ar
 5. Aggregate sentiment counts.
 6. Visualize using pie charts.
 
-## 📈 Future Improvements
+## Future Improvements 📈
 
 - Add supervised learning models for comparison (e.g., Logistic Regression, Naive Bayes).
 - Include time-based or hashtag-based sentiment trends.
 - Create word clouds for deeper insights.
 
-## 👥 Team Members
+## Team Members & Contributions
 
 | Name              | GitHub Profile                        | Contribution                                                                 |
 |-------------------|----------------------------------------|------------------------------------------------------------------------------|
@@ -113,11 +113,11 @@ The project analyzes multiple platforms (Facebook, Instagram, Twitter). Below ar
 
 
 
-## 📄 License
+## License
 
 This project is for academic and research purposes under fair use. Contact authors for reuse in production.
 
-## 📎 Repository
+## Repository
 
 GitHub:https://github.com/Ranjith-Kumar-CSE/Sentiment-Analysis.git
 
