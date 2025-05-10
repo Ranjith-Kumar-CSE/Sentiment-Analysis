@@ -106,10 +106,10 @@ The project analyzes multiple platforms (Facebook, Instagram, Twitter). Below ar
 
 | Name              | GitHub Profile                        | Contribution                                                                 |
 |-------------------|----------------------------------------|------------------------------------------------------------------------------|
-| Ranjith Kumar S   | [@Ranjith-Kumar](https://github.com/Ranjith-Kumar-CSE) | Project planning, preprocessing, VADER integration, documentation           |
-| Purusothaman C    | [GitHub](https://github.com/purusothamanc) | Data sourcing, EDA, visualization                                            |
-| Sivaneshan S      | [GitHub](https://github.com/sivaneshans) | Feature engineering, sentiment labeling                                      |
-| Somasundaram D    | [GitHub](https://github.com/somasundaramd) | Testing across datasets, debugging, documentation support                   |
+| Ranjith Kumar S   | [@Ranjith-Kumar-CSE](https://github.com/Ranjith-Kumar-CSE) | Project planning, preprocessing, VADER integration, documentation           |
+| Purusothaman C    | [@Purusothaman-C](https://github.com/Purusothaman-C) | Data sourcing, EDA, visualization                                            |
+| Sivaneshan S      | [@Sivaneshan07](https://github.com/Sivaneshan07) | Feature engineering, sentiment labeling                                      |
+| Somasundaram D    | [@Somasundaram-D](https://github.com/Somasundaram-D) | Testing across datasets, debugging, documentation support                   |
 
 
 
@@ -119,5 +119,5 @@ This project is for academic and research purposes under fair use. Contact autho
 
 ## Repository
 
-GitHub:https://github.com/Ranjith-Kumar-CSE/Sentiment-Analysis.git
+GitHub:(https://github.com/Ranjith-Kumar-CSE/Sentiment-Analysis.git)
 
