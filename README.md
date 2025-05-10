@@ -5,8 +5,7 @@ This project analyzes the emotional content of social media posts using sentimen
 ## 📌 Project Overview
 
 Social media is filled with emotional expressions — through words, emojis, slang, and punctuation. Manually understanding these emotions at scale is impossible. This project automates that process using VADER, a lexicon-based sentiment analysis tool designed for social media language.
-
-![Flowchart of Sentiment Analysis Process](Flowchart.jpg)
+![Image](https://github.com/user-attachments/assets/78e1d8b7-c9e0-460d-bbfd-62fdc99bc74d)
 
 ## 🎯 Objectives
 
