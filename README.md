@@ -107,7 +107,7 @@ The project analyzes multiple platforms (Facebook, Instagram, Twitter). Below ar
 | Name              | GitHub Profile                        | Contribution                                                                 |
 |-------------------|----------------------------------------|------------------------------------------------------------------------------|
 | Ranjith Kumar S   | [@Ranjith-Kumar](https://github.com/Ranjith-Kumar-CSE) | Project planning, preprocessing, VADER integration, documentation           |
-| Purusothaman C    | [GitHub](https://github.com/purusothamanc) | Data sourcing, EDA, visualization                                            |
+| Purusothaman C    | [@Purusothaman-C](https://github.com/Purusothaman-C) | Data sourcing, EDA, visualization                                            |
 | Sivaneshan S      | [GitHub](https://github.com/sivaneshans) | Feature engineering, sentiment labeling                                      |
 | Somasundaram D    | [GitHub](https://github.com/somasundaramd) | Testing across datasets, debugging, documentation support                   |
 
