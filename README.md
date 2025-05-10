@@ -15,20 +15,58 @@ Social media is filled with emotional expressions — through words, emojis, sla
 - Evaluate VADER's effectiveness vs. traditional ML models (planned for future).
 - Ensure transparency, scalability, and ethical consideration in sentiment classification.
 
-## 🧩 Dataset
+## Dataset
 
 - **Source**: [Open-source Instagram dataset from GitHub](#)
 - **Format**: `Instagram-datasets.csv`
 - **Records**: ~1000 Instagram posts
 - **Target**: Generated via VADER during runtime (Positive, Neutral, Negative)
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Python** 🐍
 - **pandas** – Data manipulation
 - **matplotlib** – Visualization
 - **vaderSentiment** – Sentiment analysis
+  
 ## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Ranjith-Kumar-CSE/Sentiment-Analysis.git
+   ```
+
+2. Create a virtual environment (optional but recommended):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+3. Install the required libraries:
+   ```bash
+   pip install pandas
+   pip install matplotlib
+   pip installvaderSentiment
+   ```
+
+## ▶️ Usage
+
+1. Make sure your dataset (e.g., `Instagram-datasets.csv`) is placed in the project folder.
+2. Run the Python script (e.g., `Sentiment-Analysis.py`) in your preferred environment:
+   ```bash
+   python Sentiment-Analysis.py
+   ```
+3. View the pie chart and terminal outputs to understand sentiment distribution.
+
+## 🧪 Platforms
+
+You can run this project in any of the following environments:
+
+- **Google Colab**
+- **Jupyter Notebook**
+- **VS Code**
+- **PyCharm**
+- **Anaconda**
+- Any other Python environment with required libraries installed
 
 ## 📊 Visual Results
 
@@ -66,10 +104,14 @@ The project analyzes multiple platforms (Facebook, Instagram, Twitter). Below ar
 
 ## 👥 Team Members
 
-- **Ranjith Kumar S** – Project planning, preprocessing, VADER integration, documentation
-- **Purusothaman C** – Data sourcing, EDA, visualization
-- **Sivaneshan S** – Feature engineering, sentiment labeling
-- **Somasundaram D** – Multi-dataset testing, debugging, final documentation
+| Name              | GitHub Profile                        | Contribution                                                                 |
+|-------------------|----------------------------------------|------------------------------------------------------------------------------|
+| Ranjith Kumar S   | [GitHub](https://github.com/ranjithkumar) | Project planning, preprocessing, VADER integration, documentation           |
+| Purusothaman C    | [GitHub](https://github.com/purusothamanc) | Data sourcing, EDA, visualization                                            |
+| Sivaneshan S      | [GitHub](https://github.com/sivaneshans) | Feature engineering, sentiment labeling                                      |
+| Somasundaram D    | [GitHub](https://github.com/somasundaramd) | Testing across datasets, debugging, documentation support                   |
+
+
 
 ## 📄 License
 
