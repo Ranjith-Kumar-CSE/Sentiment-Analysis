@@ -37,7 +37,7 @@ The project analyzes multiple platforms (Facebook, Instagram, Twitter). Below ar
 ![Image](https://github.com/user-attachments/assets/c4e6e175-db33-47f6-8f3e-b082d6ffb0b9)
 
 ### Instagram
-![Instagram Output](Instagram_Output.png)
+![Image](https://github.com/user-attachments/assets/99c6e082-fdad-4165-ae2c-69ffb670c008)
 
 ### Twitter
 ![Twitter Output](Twitter_Output.png)
