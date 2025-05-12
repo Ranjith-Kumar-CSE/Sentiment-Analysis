@@ -115,7 +115,9 @@ The project analyzes multiple platforms (Facebook, Instagram, Twitter). Below ar
 
 ## License
 
-This project is for academic and research purposes under fair use. Contact authors for reuse in production.
+Free Access for Researchers and NGOs
+
+Provided by Brightdata **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic faculties, researchers, NGOs, and NPOs working on environmental or social causes. Submit your application [here](https://brightinitiative.com).
 
 ## Repository
 
