@@ -45,7 +45,7 @@ Social media is filled with emotional expressions — through words, emojis, sla
    ```bash
    pip install pandas
    pip install matplotlib
-   pip installvaderSentiment
+   pip install vaderSentiment
    ```
 
 ## Usage
@@ -117,7 +117,7 @@ The project analyzes multiple platforms (Facebook, Instagram, Twitter). Below ar
 
 Free Access for Researchers and NGOs
 
-Provided by Brightdata **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic faculties, researchers, NGOs, and NPOs working on environmental or social causes. Submit your application [here](https://brightinitiative.com).
+Provided by Brightdata **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic faculties, researchers, NGOs, and NPOs working on environmental or social causes.
 
 ## Repository
 
